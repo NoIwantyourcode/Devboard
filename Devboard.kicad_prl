@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -121,19 +121,19 @@
   "project": {
     "files": [
       {
-        "name": "Devboard.kicad_pcb",
-        "open": true,
+        "name": "Devboard.kicad_sch",
+        "open": false,
         "window": {
           "display": 0,
-          "maximized": true,
-          "pos_x": -12,
-          "pos_y": -12,
+          "maximized": false,
+          "pos_x": 11,
+          "pos_y": 202,
           "size_x": 2904,
           "size_y": 1860
         }
       },
       {
-        "name": "Devboard.kicad_sch",
+        "name": "Devboard.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
