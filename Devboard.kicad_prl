@@ -122,7 +122,7 @@
     "files": [
       {
         "name": "Devboard.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": false,
@@ -134,7 +134,7 @@
       },
       {
         "name": "Devboard.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
