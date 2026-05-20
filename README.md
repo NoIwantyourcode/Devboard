@@ -8,6 +8,8 @@ I built this because I was extremely bored on one fine Sunday morning and decide
 
 # Pictures of the Devboard
 
-<img width="708" height="992" alt="Screenshot 2026-05-18 213241" src="https://github.com/user-attachments/assets/fb85da66-3580-4ce9-a022-30e903910a35" />
-<img width="1991" height="1311" alt="Screenshot 2026-05-18 102844" src="https://github.com/user-attachments/assets/80444e61-9a46-4e5e-9f03-e1a277f72679" />
+# Schematics
+<img width="1822" height="1307" alt="Screenshot 2026-05-20 193651" src="https://github.com/user-attachments/assets/2c614c45-7a26-480f-b927-6d0ab1a2ae5d" />
 
+# PCB board
+<img width="942" height="1186" alt="Screenshot 2026-05-20 193705" src="https://github.com/user-attachments/assets/e97f05bd-ee83-4508-b9e2-b114a0a6dbb1" />
