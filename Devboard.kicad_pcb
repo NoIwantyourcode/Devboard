@@ -12357,6 +12357,32 @@
 		(layer "Edge.Cuts")
 		(uuid "25d9951b-8075-4d4f-b502-f82b8cfda3ba")
 	)
+	(gr_text "RoboBoard V1"
+		(at 112.7 121.04 0)
+		(layer "F.SilkS")
+		(uuid "92bfb05f-de41-4463-bc4d-5c93c38a11db")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "By Naytik"
+		(at 112.95 121.99 0)
+		(layer "F.SilkS")
+		(uuid "faebb7bc-8ac4-4e2d-b3a1-06905a0bee10")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Component"
 		(at 126.21 85.12 0)
 		(layer "Cmts.User")
@@ -18435,7 +18461,7 @@
 		)
 		(polygon
 			(pts
-				(xy 95.49 74.16) (xy 138.23 74.35) (xy 137.73 134.85) (xy 95.74 135.59) (xy 95.86 74.04)
+				(xy 95.49 74.16) (xy 138.23 74.35) (xy 137.73 134.85) (xy 95.96 134.93) (xy 95.86 74.04)
 			)
 		)
 		(filled_polygon
