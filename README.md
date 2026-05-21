@@ -1,6 +1,6 @@
-# Robot
+# Devboard
 
-This is an custom robot that I am currently working on! It features a completely custom RP2040 powered devboard!
+This is a custom devboard that I am currently making, I features a RP2040 chip with 40 GPIO pins, I plan to integrate this devboard into a little Robot I am currently designing!
 
 # Why I built this
 
