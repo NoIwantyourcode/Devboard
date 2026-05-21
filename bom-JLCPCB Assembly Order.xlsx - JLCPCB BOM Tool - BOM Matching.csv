@@ -1,0 +1,28 @@
+JLCPCB BOM Tool - BOM Matching,,,,,,,,,,
+BOM name：bom-JLCPCB Assembly Order.xlsx,,,Download Time：2026-05-21 21:02:26,,,,,,,
+PCB Assembled Qty：2,,,Total Price：$69.17 (incl. shipping),,,,,,,
+Your BOM,,,,,Order Information,,,,,
+Top Designator,Bottom Designator,Comment,Footprint,Footprint,JLCPCB Part #,Product link,Lib Type,Qty,Source,Total Price ($)
+C1,,1uF,0402,0402,C52923,https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923,Basic,2,2 JLCPCB,0.008
+"C10,C11,C12,C17,C2,C3,C4,C5,C6,C7,C8,C9",,0.1uF,0402,0402,C1525,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525,Basic,24,24 JLCPCB,0.036
+"C13,C14",,10uF,0603,0603,C19702,https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702,Basic,4,4 JLCPCB,0.0408
+"C15,C16",,15pF,0402,0402,C1548,https://jlcpcb.com/partdetail/1900-0402CG150J500NT/C1548,Basic,4,4 JLCPCB,0.0048
+C18,,47uF,0603,0603,C140782,https://jlcpcb.com/partdetail/152108-GRM188R60J476ME15D/C140782,Extended,6,6 JLCPCB,0.375
+C19,,10nF,0603,0603,C57112,https://jlcpcb.com/partdetail/58143-0603B103K500NT/C57112,Basic,2,2 JLCPCB,0.0062
+"C20,C21",,0.1uF,0603,0603,C14663,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,Basic,4,4 JLCPCB,0.012
+D1,,SS14,D_SMA,SMA(DO-214AC),C2480,https://jlcpcb.com/partdetail/MDD_Microdiode_Semiconductor-SS14/C2480,Basic,2,2 JLCPCB,0.0334
+IC1,,MPU-6500,QFN40P300X300X95-25N-D,QFN-24-EP(3x3),C50278,https://jlcpcb.com/partdetail/TDKInvenSense-MPU6500/C50278,Extended,2,2 JLCPCB,12.446
+J1,,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,SMD,C165948,https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948,Extended,2,2 JLCPCB,0.37
+"R1,R2",,5.1K,0402,0402,C25905,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905,Basic,4,4 JLCPCB,0.0036
+"R3,R4",,27,0402,0402,C25100,https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100,Extended,20,20 JLCPCB,0.016
+"R5,R6",,1K,0402,0402,C11702,https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702,Basic,4,4 JLCPCB,0.004
+R7,,10K,0402,0402,C25744,https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744,Basic,2,2 JLCPCB,0.0026
+R8,,100K,0603,0603,C25803,https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803,Basic,2,2 JLCPCB,0.0036
+SW1,,SW_Push,SW_Push_SPST_NO_Alps_SKRK,"SMD,3.1x2.5mm",C843684,https://jlcpcb.com/partdetail/GSwitch-GT_TC032A_H015L1/C843684,Extended,5,5 JLCPCB,0.9495
+U1,,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,LQFN-56(7x7),C2040,https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040,Extended,2,2 JLCPCB,1.9616
+U2,,NCP1117-3.3_SOT223,SOT-223-3_TabPin2,SOT-223,C26537,https://jlcpcb.com/partdetail/onsemi-NCP1117ST33T3G/C26537,Extended,2,2 JLCPCB,0.4668
+U3,,W25Q128JVS,SOIC-8_5.3x5.3mm_P1.27mm,SOIC-8-208mil,C97521,https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521,Basic,2,2 JLCPCB,4.9598
+Y1,,12Mhz,Crystal_SMD_3225-4Pin_3.2x2.5mm,SMD3225-4P,C481407,https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407,Extended,5,5 JLCPCB,1.1485
+J2,,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,,,https://www.aliexpress.com/item/4001053521664.html?spm=a2g0o.productlist.main.2.99562871B4vqMv&algo_pvid=41df1749-e211-4673-ae61-451e6d223730&algo_exp_id=41df1749-e211-4673-ae61-451e6d223730-1&pdp_ext_f=%7B%22order%22%3A%2291%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21SGD%212.90%212.90%21%21%212.20%212.20%21%402140c1c317793687892012860eb486%2110000013819372129%21sea%21SG%214283275066%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6b7a15f9%3Bm03_new_user%3A-29895&curPageLogUid=cide6r518ULA&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001053521664%7C_p_origin_prod%3A,,,,-
+"J3,J4",,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,,,https://www.aliexpress.com/item/4001053521664.html?spm=a2g0o.productlist.main.2.99562871B4vqMv&algo_pvid=41df1749-e211-4673-ae61-451e6d223730&algo_exp_id=41df1749-e211-4673-ae61-451e6d223730-1&pdp_ext_f=%7B%22order%22%3A%2291%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21SGD%212.90%212.90%21%21%212.20%212.20%21%402140c1c317793687892012860eb486%2110000013819372129%21sea%21SG%214283275066%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6b7a15f9%3Bm03_new_user%3A-29895&curPageLogUid=cide6r518ULA&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001053521664%7C_p_origin_prod%3A,,,,2.27
+J5,,JST_2mm_LiPo,JST_XA_S02B-XASK-1N-BN_1x02_P2.50mm_Horizontal,,,https://www.aliexpress.com/item/1005009483624961.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.4.3d0dXv59Xv59GR&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4af63f90-a695-429f-8c45-5bd3da249502&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A4af63f90-a695-429f-8c45-5bd3da249502%2Ctpp_buckets%3A668%232846%238116%232002&pdp_ext_f=%7B%22order%22%3A%22295%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21SGD%210.91%210.89%21%21%214.67%214.58%21%4021015b7d17793691367308250e80ad%2112000049242880346%21rec%21SG%214283275066%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6b7a15f9%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005009483624961%7C_p_origin_prod%3A,,,,0.7

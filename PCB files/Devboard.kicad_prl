@@ -125,6 +125,18 @@
           "size_x": 2904,
           "size_y": 1860
         }
+      },
+      {
+        "name": "Devboard.kicad_pro",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -24,
+          "pos_y": -24,
+          "size_x": 2904,
+          "size_y": 1860
+        }
       }
     ]
   },
