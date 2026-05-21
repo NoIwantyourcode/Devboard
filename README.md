@@ -1,6 +1,6 @@
-# Devboard
+# Robot
 
-This is a custom devboard that I am currently making, I features a RP2040 chip with 40 GPIO pins, I plan to integrate this devboard into a little Robot I am currently designing!
+This is a custom devboard that I am currently making which will be housed inside a custom Robot, I features a RP2040 chip with 40 GPIO pins and an MPU-6500 gyroscope + accelerometer for self balancing.
 
 # Why I built this
 
