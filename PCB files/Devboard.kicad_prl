@@ -115,7 +115,7 @@
   "project": {
     "files": [
       {
-        "name": "Devboard.kicad_sch",
+        "name": "Devboard.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
@@ -127,7 +127,7 @@
         }
       },
       {
-        "name": "Devboard.kicad_pcb",
+        "name": "Devboard.kicad_sch",
         "open": false,
         "window": {
           "display": 0,
