@@ -1,6 +1,6 @@
-# Robot
+# What is this Devboard
 
-This is a custom devboard that I am currently making which will be housed inside a custom Robot, I features a RP2040 chip with 40 GPIO pins and an MPU-6500 gyroscope + accelerometer for self balancing.
+This is a custom devboard I have made which uses an RP2040 along with 40 GPIO pins, This also has an inbuild MPU-6500 IMU for all of your tilt and acceleration measuring needs!
 
 # Why I built this
 
