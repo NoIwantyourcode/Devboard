@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -32,7 +32,6 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
-      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -115,14 +114,14 @@
   "project": {
     "files": [
       {
-        "name": "Devboard.kicad_pcb",
+        "name": "Devboard.kicad_pro",
         "open": false,
         "window": {
           "display": 0,
-          "maximized": false,
-          "pos_x": -15,
-          "pos_y": 66,
-          "size_x": 2858,
+          "maximized": true,
+          "pos_x": -12,
+          "pos_y": -12,
+          "size_x": 2904,
           "size_y": 1860
         }
       }
