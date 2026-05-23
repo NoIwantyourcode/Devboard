@@ -114,7 +114,7 @@
   "project": {
     "files": [
       {
-        "name": "Devboard.kicad_pro",
+        "name": "Devboard.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
