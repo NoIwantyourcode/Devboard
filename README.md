@@ -15,6 +15,6 @@ I built this because I was extremely bored on one fine Sunday morning and decide
   <img width="704" height="860" alt="Screenshot 2026-06-02 211607" src="https://github.com/user-attachments/assets/33964759-c030-4d35-a066-fdc149d1961a" />
 
   # PCB Board - 3D render
-  <img width="1897" height="1589" alt="Screenshot 2026-05-22 103058" src="https://github.com/user-attachments/assets/e2c65ada-34f9-46c4-873d-1e9a16414f1e" />
+  <img width="1475" height="1369" alt="Screenshot 2026-06-02 205716" src="https://github.com/user-attachments/assets/09a3be37-ea01-45c8-8363-0704534e6087" />
   <img width="1812" height="1385" alt="Screenshot 2026-06-02 211512" src="https://github.com/user-attachments/assets/6b2a015a-bc0d-4be3-bd5d-32f193cff8c5" />
 
