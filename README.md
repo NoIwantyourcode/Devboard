@@ -12,7 +12,9 @@ I built this because I was extremely bored on one fine Sunday morning and decide
   <img width="1334" height="930" alt="Screenshot 2026-05-21 125007" src="https://github.com/user-attachments/assets/a065d809-7d4c-4161-a3d5-19114decd119" />
 
   # PCB board - DevBoard
-  <img width="1229" height="1510" alt="Screenshot 2026-05-22 103044" src="https://github.com/user-attachments/assets/7f9c34e7-67cc-454e-9daf-72d5d680d3fd" />
+  <img width="704" height="860" alt="Screenshot 2026-06-02 211607" src="https://github.com/user-attachments/assets/33964759-c030-4d35-a066-fdc149d1961a" />
 
   # PCB Board - 3D render
   <img width="1897" height="1589" alt="Screenshot 2026-05-22 103058" src="https://github.com/user-attachments/assets/e2c65ada-34f9-46c4-873d-1e9a16414f1e" />
+  <img width="1812" height="1385" alt="Screenshot 2026-06-02 211512" src="https://github.com/user-attachments/assets/6b2a015a-bc0d-4be3-bd5d-32f193cff8c5" />
+
