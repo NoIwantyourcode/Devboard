@@ -1,4 +1,4 @@
-**Total Time: 9 hours**
+**Total Time: 9.5 hours**
 
 # May 19th: Completed Schematics - 3 hours
 I completed the schematics for the devboard, This is very simple devboard however I do plan to add a bunch of features later on such as an IMU (most likely the MPU-6500) and an Magnetometer as well, I may also try to the robot shoot nerf darts out of its back later on so that will be something I might have to add additional hardware for
@@ -6,8 +6,7 @@ I completed the schematics for the devboard, This is very simple devboard howeve
 Heres a picture of the devboard schematic:
 <img width="1991" height="1311" alt="Screenshot 2026-05-18 102844" src="https://github.com/user-attachments/assets/b85fa2ce-36cd-46fc-8095-35812270e8a5" />
 
-# May 20th - May 20th: Completed routing - 2 hours
-
+# May 20th: Completed routing - 2 hours
 I completed the routing, What I ended up with is a 4 layer board with components on both sides, The reason for having components on both sides is space, by optimizing the space I can reduce the power draw of the robot and speed up reaction time of the devboard, even if it maybe marginal! 
 This is why it took 5 hours as I had to do multiple iterations with each iteration getting smaller
 
@@ -27,7 +26,6 @@ heres a picture of the new board
 ![alt text](<Screenshot 2026-05-20 160039.png>)
 
 # May 20th: I rerouted the PCB and removed the IMU - 1.5 hours
-
 I removed the IMU as I couldn't figure out how to power it, I also realised that having 4 10-pin headers to make 40 pins would be inefficient and instead decided to use 2 20-pin headers to make it easier to route and work on later, I also simplified the board to go from a 4-layer PCB to 2-layer PCB
 
 here is a picture of the board now:
@@ -35,8 +33,14 @@ here is a picture of the board now:
 <img width="942" height="1186" alt="Screenshot 2026-05-20 193705" src="https://github.com/user-attachments/assets/71bf2612-c55a-4bc0-b8da-22266c8d5be7" />
 
 # May 21st: Added IMU to the devboard - 0.5 hours
-
 After much research and deliberation, I added an MPU-6500 accelerometer + gyroscope chip, This is what the schematic now looks like
 
 <img width="1334" height="930" alt="image" src="https://github.com/user-attachments/assets/ee140d8a-3ead-4e4c-9a70-e7cbe5f53d69" />
+
+# June 2nd: Added silkscreen art - 0.5 hours
+I added some silkscreen art to spice up the devboard, I changed the font on which my name is written and I also added a Tic Tac Toe board to the back so I can play on it
+
+<img width="1812" height="1385" alt="Screenshot 2026-06-02 211512" src="https://github.com/user-attachments/assets/27b38e9c-efe6-49b6-9f86-41e3409f71ab" />
+<img width="704" height="860" alt="Screenshot 2026-06-02 211607" src="https://github.com/user-attachments/assets/7e5a4e7f-2804-4cea-8f8f-4adf1171b2a9" />
+<img width="1475" height="1369" alt="Screenshot 2026-06-02 205716" src="https://github.com/user-attachments/assets/003b5988-6985-4e0a-82da-a1fea096ec7d" />
 
