@@ -17,3 +17,9 @@ I built this because I was extremely bored on one fine Sunday morning and decide
   # PCB Board - 3D render
   <img width="1475" height="1369" alt="Screenshot 2026-06-02 205716" src="https://github.com/user-attachments/assets/09a3be37-ea01-45c8-8363-0704534e6087" />
   <img width="918" height="1138" alt="Screenshot 2026-06-03 103546" src="https://github.com/user-attachments/assets/f6df7af6-2eaa-4853-aabe-4157f06d4650" />
+
+  # PCB board assembled and working!
+  <img width="3472" height="4624" alt="1781783896864" src="https://github.com/user-attachments/assets/78bcb2ed-9367-4cdd-8099-33df21dac1f0" />
+
+  # Demo!
+  Goto <li>https://youtu.be/vsxfW2zVnzc</li>
