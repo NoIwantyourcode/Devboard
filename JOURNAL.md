@@ -1,4 +1,4 @@
-**Total Time: 9.5 hours**
+**Total Time: 11.5 hours**
 
 # May 19th: Completed Schematics - 3 hours
 I completed the schematics for the devboard, This is very simple devboard however I do plan to add a bunch of features later on such as an IMU (most likely the MPU-6500) and an Magnetometer as well, I may also try to the robot shoot nerf darts out of its back later on so that will be something I might have to add additional hardware for
@@ -44,3 +44,13 @@ I added some silkscreen art to spice up the devboard, I changed the font on whic
 <img width="704" height="860" alt="Screenshot 2026-06-02 211607" src="https://github.com/user-attachments/assets/7e5a4e7f-2804-4cea-8f8f-4adf1171b2a9" />
 <img width="1475" height="1369" alt="Screenshot 2026-06-02 205716" src="https://github.com/user-attachments/assets/003b5988-6985-4e0a-82da-a1fea096ec7d" />
 
+# June 18th: Recived, Assembled and made the devboard and made it work - 2.5 hours
+I troubleshooted, assembled and tested the devboard.
+
+When I got my devboard, I realised that it didn’t work because there were 2 3.3v nets and they were not being connected, after linking the 2 3.3v nets together using a bodge wire I realised that the devboard still wasn’t getting enough power as the 3.3v voltage regulator was only outputting 1.3v, I ended up using an Arduno Uno’s 3.3v pins + some jumper cables to provide power to the board.
+
+In the end I was able to make the board work just fine without too many problems!!
+
+here is a picture of the board in the end
+
+<img width="676" height="900" alt="17827152065111111388586978319272" src="https://github.com/user-attachments/assets/b89cafcf-477e-45e9-95fd-cb162118bdc9" />
