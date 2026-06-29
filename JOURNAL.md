@@ -1,4 +1,4 @@
-**Total Time: 11.5 hours**
+**Total Time: 12 hours**
 
 # May 19th: Completed Schematics - 3 hours
 I completed the schematics for the devboard, This is very simple devboard however I do plan to add a bunch of features later on such as an IMU (most likely the MPU-6500) and an Magnetometer as well, I may also try to the robot shoot nerf darts out of its back later on so that will be something I might have to add additional hardware for
